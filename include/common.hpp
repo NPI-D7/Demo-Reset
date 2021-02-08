@@ -3,7 +3,7 @@
 #include "structs.hpp"
 #include "gfx.hpp"
 #include "gui.hpp"
-
+#include "sprites.h"
 #include <3ds.h>
 #include <citro2d.h>
 #include <citro3d.h>
