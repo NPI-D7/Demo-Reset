@@ -66,7 +66,7 @@ UNIVCORE	:= 	Universal-Core
 
 SOURCES		:=	 $(UNIVCORE) source source/gui source/screens source/core/management source/utils source/core/management/nand
 DATA		:=	data
-INCLUDES	:= $(UNIVCORE) include include/gui include/screens include/core/management include/utils include/core/management/nand
+INCLUDES	:= $(UNIVCORE) include include/gui include/screens include/core/management include/utils include/core/management/nand build
 GRAPHICS	:=	assets/gfx
 #GFXBUILD	:=	$(BUILD)
 ROMFS		:=	romfs
